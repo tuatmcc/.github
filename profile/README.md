@@ -4,7 +4,7 @@
 
 
 
-<img width="44px" src="/images/fa6-solid--link.png" />
-<img width="44px" src="/images/fa6-brands--square-x-twitter.png" />
-<img width="44px" src="/images/fa6-brands--square-github.png" />
+<img width="44px" src="/images/fa6-solid--link.svg" />
+<img width="44px" src="/images/fa6-brands--square-x-twitter.svg" />
+<img width="44px" src="/images/fa6-brands--square-github.svg" />
 
