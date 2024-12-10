@@ -4,7 +4,7 @@
 
 
 
-[![](/images/fa6-solid--link.png)](https://tuatmcc.com)
-[![](/images/fa6-brands--square-x-twitter.png)](https://x.com/tuatmcc)
-[![](/images/fa6-brands--square-github.png)](https://github.com/tuatmcc)
+<img width="44px" src="/images/fa6-solid--link.png" />
+<img width="44px" src="/images/fa6-brands--square-x-twitter.png" />
+<img width="44px" src="/images/fa6-brands--square-github.png" />
 
