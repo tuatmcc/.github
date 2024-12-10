@@ -1,16 +1,10 @@
+<h1 align="center">Micro Copmuter Club</h1>
 
-<!--
+<img src="./images/wordmark-logo@1108x320.svg" alt="MCC Wordmark Logo" width="100%" />
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 
-# MCC - Micro Copmuter Club
+[![](./images/fa6-solid--link.png)](https://tuatmcc.com)
+[![](./images/fa6-brands--square-x-twitter.png)](https://x.com/tuatmcc)
+[![](./images/fa6-brands--square-github.png)](https://github.com/tuatmcc)
 
-- Homepage: <https://tuatmcc.com>
-- X (Twitter): <https://x.com/tuatmcc>
