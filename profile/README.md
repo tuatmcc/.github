@@ -4,7 +4,9 @@
 
 
 
+<p align="center">
 <img width="44px" src="/images/fa6-solid--link.svg" />
 <img width="44px" src="/images/fa6-brands--square-x-twitter.svg" />
 <img width="44px" src="/images/fa6-brands--square-github.svg" />
+</p>
 
