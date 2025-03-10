@@ -1,4 +1,4 @@
-<h1 align="center">Micro Copmuter Club</h1>
+<h1 align="center">Micro Computer Club</h1>
 
 <p align="center">
 <a href="https://tuatmcc.com">
